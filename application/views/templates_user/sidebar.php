@@ -126,9 +126,5 @@
 						</div>
 					</div><!--/brands_products-->
 
-					<div class="shipping text-center"><!--shipping-->
-						<img src="<?= base_url('assets/shop/'); ?>images/home/shipping.jpg" alt="" />
-					</div><!--/shipping-->
-
 				</div>
 			</div>

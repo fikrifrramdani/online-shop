@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title><?= $title; ?></title>
 	<link href="<?= base_url('assets/shop/'); ?>css/bootstrap.min.css" rel="stylesheet">
-	<link href="<?= base_url('assets/shop/'); ?>css/font-awesome.min.css" rel="stylesheet">
+	<link href="<?= base_url('assets/fontawesome/'); ?>css/all.min.css" rel="stylesheet">
+	<link href="<?= base_url('assets/fontawesome/'); ?>css/fontawesome.min.css" rel="stylesheet">
 	<link href="<?= base_url('assets/shop/'); ?>css/prettyPhoto.css" rel="stylesheet">
 	<link href="<?= base_url('assets/shop/'); ?>css/price-range.css" rel="stylesheet">
 	<link href="<?= base_url('assets/shop/'); ?>css/animate.css" rel="stylesheet">
@@ -15,7 +17,9 @@
 	<script src="js/html5shiv.js"></script>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
-</head><!--/head-->
+</head>
+<!--/head-->
 
 <body>
-	<header id="header"><!--header-->
+	<header id="header">
+		<!--header-->
